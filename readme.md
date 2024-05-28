@@ -723,6 +723,7 @@
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+- [Azure Networking](https://github.com/oliverlabs/azure-networking) - List of Azure Networking Resources.
 
 ## Decentralized Systems
 
@@ -773,6 +774,10 @@
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+
+## Azure
+
+- [Azure Landing Zone Catalogue](https://github.com/oliverlabs/alz-catalogue) - list of various platform and application-specific implementations of Azure Landing Zone concept.
 
 ## Miscellaneous
 
